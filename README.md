@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://anas20023.github.io/Landing-Page-project/](https://anas20023.github.io/Landing-Page-project/)
+[https://anas20023.github.io/Landing-Page/](https://anas20023.github.io/Landing-Page/)
 
   
   
